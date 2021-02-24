@@ -1,4 +1,4 @@
-defmodule LargeDomTest do
+defmodule EntryAdTest do
   # Import helpers
   use Hound.Helpers
   use ExUnit.Case
