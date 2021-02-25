@@ -10,6 +10,7 @@ use Mix.Config
 
 config :hound, driver: "chrome_driver"
 config :tesla, adapter: Tesla.Adapter.Hackney
+
 # You can configure your application as:
 #
 #     config :homework, key: :value
