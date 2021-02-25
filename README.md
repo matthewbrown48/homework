@@ -1,3 +1,7 @@
+## Note from Matthew 
+I created several helper functions that could be resused with tests. I ran into some configuration issues putting these in their own file, and so resorted to copying them into each test case in which they were used. Ordinarily I would have gone to a coworker who had more experience with configuring the elixir files for this, or added them to a pre-existing helper file, since I assume one most likely already exists.  
+
+
 ## Elixir SDET homework assigment
 
 - Choose at least 3 three of the options in the list on https://the-internet.herokuapp.com/, and automate at least one test case for each option.
